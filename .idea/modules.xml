@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/python-hpilo.iml" filepath="$PROJECT_DIR$/.idea/python-hpilo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hpilo_ovirtnode_install.iml" filepath="$PROJECT_DIR$/.idea/hpilo_ovirtnode_install.iml" />
     </modules>
   </component>
 </project>

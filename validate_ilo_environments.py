@@ -1,3 +1,4 @@
+!# /usr/bin/env python
 import hpilo
 import json
 import argparse
