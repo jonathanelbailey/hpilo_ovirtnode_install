@@ -17,7 +17,7 @@ with open('environments.json') as data_file:
 for endpoint in environments_obj['endpoints']:
     try:
         ilo = hpilo.Ilo(endpoint['hostname'], endpoint['username'], password)
-        ilo.get_fw_version()
+        print(ilo.get_fw_version())
     except hpilo.IloError as e:
         print(e)
         sys.exit(1)
