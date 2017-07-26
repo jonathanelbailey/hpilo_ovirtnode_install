@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import hpilo
 import json
@@ -16,7 +16,7 @@ with open('environments.json') as data_file:
 
 for endpoint in environments_obj['endpoints']:
     try:
-        ilo = hpilo.Ilo(endpoint['hostname'], endpoint['username'], password, ssl_version=None)
+        ilo = hpilo.Ilo(endpoint['hostname'], endpoint['username'], password)
         print(ilo.get_fw_version())
     except hpilo.IloError as e:
         print(e)

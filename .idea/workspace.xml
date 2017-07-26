@@ -30,10 +30,10 @@
       <file leaf-file-name="validate_ilo_environments.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/validate_ilo_environments.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="18" column="94" lean-forward="false" selection-start-line="18" selection-start-column="94" selection-end-line="18" selection-end-column="94" />
+            <state relative-caret-position="324">
+              <caret line="18" column="76" lean-forward="false" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
               <folding>
-                <element signature="e#23#35#0" expanded="true" />
+                <element signature="e#24#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -338,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501038648494</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added ssl ver=none">
+      <created>1501039354356</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1501039354356</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -386,7 +393,8 @@
     <MESSAGE value="added shebang" />
     <MESSAGE value="added exit code" />
     <MESSAGE value="logic refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="logic refactor" />
+    <MESSAGE value="added ssl ver=none" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ssl ver=none" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -403,10 +411,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/validate_ilo_environments.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="18" column="94" lean-forward="false" selection-start-line="18" selection-start-column="94" selection-end-line="18" selection-end-column="94" />
+        <state relative-caret-position="324">
+          <caret line="18" column="76" lean-forward="false" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
           <folding>
-            <element signature="e#23#35#0" expanded="true" />
+            <element signature="e#24#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
