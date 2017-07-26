@@ -3,6 +3,7 @@
 import hpilo
 import json
 import argparse
+import sys
 
 parser = argparse.ArgumentParser(description='take a psssword')
 parser.add_argument('--password', required=True)
