@@ -19,5 +19,6 @@ for endpoint in environments_obj['endpoints']:
         ilo.get_fw_version()
     except hpilo.IloError as e:
         print(e)
+        sys.exit(1)
 
 
